@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/669/trunk/branches/cs4/src/org/ascollada/fx
+END
+DaeInstanceMaterial.as
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/669/trunk/branches/cs4/src/org/ascollada/fx/DaeInstanceMaterial.as
+END
+DaeLambert.as
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/669/trunk/branches/cs4/src/org/ascollada/fx/DaeLambert.as
+END
+DaeSurface.as
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/669/trunk/branches/cs4/src/org/ascollada/fx/DaeSurface.as
+END
+DaeConstant.as
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/669/trunk/branches/cs4/src/org/ascollada/fx/DaeConstant.as
+END
+DaeSampler2D.as
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/669/trunk/branches/cs4/src/org/ascollada/fx/DaeSampler2D.as
+END
+DaeNewParam.as
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/669/trunk/branches/cs4/src/org/ascollada/fx/DaeNewParam.as
+END
+DaeBindVertexInput.as
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/669/trunk/branches/cs4/src/org/ascollada/fx/DaeBindVertexInput.as
+END
+DaePhong.as
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/669/trunk/branches/cs4/src/org/ascollada/fx/DaePhong.as
+END
+DaeEffect.as
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/669/trunk/branches/cs4/src/org/ascollada/fx/DaeEffect.as
+END
+DaeMaterial.as
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/669/trunk/branches/cs4/src/org/ascollada/fx/DaeMaterial.as
+END
+DaeTexture.as
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/669/trunk/branches/cs4/src/org/ascollada/fx/DaeTexture.as
+END
+DaeBlinn.as
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/669/trunk/branches/cs4/src/org/ascollada/fx/DaeBlinn.as
+END

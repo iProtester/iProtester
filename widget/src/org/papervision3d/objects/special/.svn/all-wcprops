@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/669/trunk/branches/cs4/src/org/papervision3d/objects/special
+END
+Sound3D.as
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/669/trunk/branches/cs4/src/org/papervision3d/objects/special/Sound3D.as
+END
+ParticleField.as
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/669/trunk/branches/cs4/src/org/papervision3d/objects/special/ParticleField.as
+END
+SimpleLevelOfDetail.as
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/669/trunk/branches/cs4/src/org/papervision3d/objects/special/SimpleLevelOfDetail.as
+END
+UCS.as
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/669/trunk/branches/cs4/src/org/papervision3d/objects/special/UCS.as
+END
+Skin3D.as
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/669/trunk/branches/cs4/src/org/papervision3d/objects/special/Skin3D.as
+END
+Frustum3D.as
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/669/trunk/branches/cs4/src/org/papervision3d/objects/special/Frustum3D.as
+END

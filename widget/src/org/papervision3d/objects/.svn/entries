@@ -1,0 +1,71 @@
+9
+
+dir
+923
+http://papervision3d.googlecode.com/svn/trunk/branches/cs4/src/org/papervision3d/objects
+http://papervision3d.googlecode.com/svn
+
+
+
+2008-09-23T15:51:42.829813Z
+737
+rseeler
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+071aa1e1-232a-0410-a790-59abb25ab4c3
+
+parsers
+dir
+
+special
+dir
+
+DisplayObject3D.as
+file
+
+
+
+
+2009-09-23T15:42:18.000000Z
+ebb70e69fe0f4d4050afb1a4088b0425
+2008-09-23T15:51:42.829813Z
+737
+rseeler
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+33853
+
+primitives
+dir
+

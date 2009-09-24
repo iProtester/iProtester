@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/669/trunk/branches/cs4/src/org/papervision3d/core/render/sort
+END
+BasicRenderSorter.as
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/669/trunk/branches/cs4/src/org/papervision3d/core/render/sort/BasicRenderSorter.as
+END
+IRenderSorter.as
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/669/trunk/branches/cs4/src/org/papervision3d/core/render/sort/IRenderSorter.as
+END
+NullSorter.as
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/669/trunk/branches/cs4/src/org/papervision3d/core/render/sort/NullSorter.as
+END

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/669/trunk/branches/cs4/src/org/papervision3d/core/render/data
+END
+RenderSessionData.as
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/669/trunk/branches/cs4/src/org/papervision3d/core/render/data/RenderSessionData.as
+END
+RenderHitData.as
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/669/trunk/branches/cs4/src/org/papervision3d/core/render/data/RenderHitData.as
+END
+RenderStatistics.as
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/669/trunk/branches/cs4/src/org/papervision3d/core/render/data/RenderStatistics.as
+END

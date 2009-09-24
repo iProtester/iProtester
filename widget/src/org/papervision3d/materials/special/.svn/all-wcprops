@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/669/trunk/branches/cs4/src/org/papervision3d/materials/special
+END
+BitmapParticleMaterial.as
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/669/trunk/branches/cs4/src/org/papervision3d/materials/special/BitmapParticleMaterial.as
+END
+CompositeMaterial.as
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/669/trunk/branches/cs4/src/org/papervision3d/materials/special/CompositeMaterial.as
+END
+MovieAssetParticleMaterial.as
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/669/trunk/branches/cs4/src/org/papervision3d/materials/special/MovieAssetParticleMaterial.as
+END
+ParticleMaterial.as
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/669/trunk/branches/cs4/src/org/papervision3d/materials/special/ParticleMaterial.as
+END
+LineMaterial.as
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/669/trunk/branches/cs4/src/org/papervision3d/materials/special/LineMaterial.as
+END
+FogMaterial.as
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/669/trunk/branches/cs4/src/org/papervision3d/materials/special/FogMaterial.as
+END

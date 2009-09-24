@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/669/trunk/branches/cs4/src/org/papervision3d/objects/primitives
+END
+Cube.as
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/669/trunk/branches/cs4/src/org/papervision3d/objects/primitives/Cube.as
+END
+Plane.as
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/669/trunk/branches/cs4/src/org/papervision3d/objects/primitives/Plane.as
+END
+Cone.as
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/669/trunk/branches/cs4/src/org/papervision3d/objects/primitives/Cone.as
+END
+Sphere.as
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/669/trunk/branches/cs4/src/org/papervision3d/objects/primitives/Sphere.as
+END
+PaperPlane.as
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/669/trunk/branches/cs4/src/org/papervision3d/objects/primitives/PaperPlane.as
+END
+Cylinder.as
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/669/trunk/branches/cs4/src/org/papervision3d/objects/primitives/Cylinder.as
+END

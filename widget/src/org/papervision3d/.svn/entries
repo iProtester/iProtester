@@ -1,0 +1,89 @@
+9
+
+dir
+923
+http://papervision3d.googlecode.com/svn/trunk/branches/cs4/src/org/papervision3d
+http://papervision3d.googlecode.com/svn
+
+
+
+2008-09-25T23:06:24.309691Z
+740
+rseeler
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+071aa1e1-232a-0410-a790-59abb25ab4c3
+
+render
+dir
+
+scenes
+dir
+
+materials
+dir
+
+events
+dir
+
+core
+dir
+
+Papervision3D.as
+file
+
+
+
+
+2009-09-23T15:42:18.000000Z
+acfd36bf40e76abd54e4dfc826bc645b
+2008-09-19T04:48:07.093486Z
+731
+neoriley
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2023
+
+objects
+dir
+
+lights
+dir
+
+view
+dir
+
+cameras
+dir
+

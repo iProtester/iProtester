@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/669/trunk/branches/cs4/src/org/papervision3d/core/culling
+END
+DefaultParticleCuller.as
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/669/trunk/branches/cs4/src/org/papervision3d/core/culling/DefaultParticleCuller.as
+END
+DefaultTriangleCuller.as
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/669/trunk/branches/cs4/src/org/papervision3d/core/culling/DefaultTriangleCuller.as
+END
+ViewportObjectFilterMode.as
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/669/trunk/branches/cs4/src/org/papervision3d/core/culling/ViewportObjectFilterMode.as
+END
+RectangleLineCuller.as
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/669/trunk/branches/cs4/src/org/papervision3d/core/culling/RectangleLineCuller.as
+END
+IParticleCuller.as
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/669/trunk/branches/cs4/src/org/papervision3d/core/culling/IParticleCuller.as
+END
+ITriangleCuller.as
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/669/trunk/branches/cs4/src/org/papervision3d/core/culling/ITriangleCuller.as
+END
+IObjectCuller.as
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/669/trunk/branches/cs4/src/org/papervision3d/core/culling/IObjectCuller.as
+END
+RectangleParticleCuller.as
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/669/trunk/branches/cs4/src/org/papervision3d/core/culling/RectangleParticleCuller.as
+END
+CompositeTriangleCuller.as
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/669/trunk/branches/cs4/src/org/papervision3d/core/culling/CompositeTriangleCuller.as
+END
+RectangleTriangleCuller.as
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/669/trunk/branches/cs4/src/org/papervision3d/core/culling/RectangleTriangleCuller.as
+END
+DefaultLineCuller.as
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/669/trunk/branches/cs4/src/org/papervision3d/core/culling/DefaultLineCuller.as
+END
+FrustumTestMethod.as
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/669/trunk/branches/cs4/src/org/papervision3d/core/culling/FrustumTestMethod.as
+END
+NullTriangleCuller.as
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/669/trunk/branches/cs4/src/org/papervision3d/core/culling/NullTriangleCuller.as
+END
+ILineCuller.as
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/669/trunk/branches/cs4/src/org/papervision3d/core/culling/ILineCuller.as
+END
+ViewportObjectFilter.as
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/669/trunk/branches/cs4/src/org/papervision3d/core/culling/ViewportObjectFilter.as
+END

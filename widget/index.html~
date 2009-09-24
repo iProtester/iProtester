@@ -1,0 +1,15 @@
+<html>
+<head></head>
+<title>iProtester</title>
+
+<body>
+
+<object width="550" height="400">
+<param name="movie" value="src/Main.swf">
+<embed src="src/Main.swf" width="550" height="400">
+</embed>
+</object>
+
+</body>
+
+</html>

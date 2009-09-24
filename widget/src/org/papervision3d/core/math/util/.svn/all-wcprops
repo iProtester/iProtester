@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/669/trunk/branches/cs4/src/org/papervision3d/core/math/util
+END
+TriangleUtil.as
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/669/trunk/branches/cs4/src/org/papervision3d/core/math/util/TriangleUtil.as
+END
+FastRectangleTools.as
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/669/trunk/branches/cs4/src/org/papervision3d/core/math/util/FastRectangleTools.as
+END
+InterpolationUtil.as
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/669/trunk/branches/cs4/src/org/papervision3d/core/math/util/InterpolationUtil.as
+END
+Intersection.as
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/669/trunk/branches/cs4/src/org/papervision3d/core/math/util/Intersection.as
+END
+ClassificationUtil.as
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/669/trunk/branches/cs4/src/org/papervision3d/core/math/util/ClassificationUtil.as
+END

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/669/trunk/branches/cs4/src/org/papervision3d/cameras
+END
+Camera3D.as
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/669/trunk/branches/cs4/src/org/papervision3d/cameras/Camera3D.as
+END
+FreeCamera3D.as
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/669/trunk/branches/cs4/src/org/papervision3d/cameras/FreeCamera3D.as
+END
+FrustumCamera3D.as
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/669/trunk/branches/cs4/src/org/papervision3d/cameras/FrustumCamera3D.as
+END

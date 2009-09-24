@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/669/trunk/branches/cs4/src/org/papervision3d/core/proto
+END
+LightObject3D.as
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/669/trunk/branches/cs4/src/org/papervision3d/core/proto/LightObject3D.as
+END
+CameraObject3D.as
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/669/trunk/branches/cs4/src/org/papervision3d/core/proto/CameraObject3D.as
+END
+DisplayObjectContainer3D.as
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/669/trunk/branches/cs4/src/org/papervision3d/core/proto/DisplayObjectContainer3D.as
+END
+GeometryObject3D.as
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/669/trunk/branches/cs4/src/org/papervision3d/core/proto/GeometryObject3D.as
+END
+SceneObject3D.as
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/669/trunk/branches/cs4/src/org/papervision3d/core/proto/SceneObject3D.as
+END
+MaterialObject3D.as
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/669/trunk/branches/cs4/src/org/papervision3d/core/proto/MaterialObject3D.as
+END
